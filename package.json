@@ -1,0 +1,16 @@
+{
+  "name": "primera-entrega-pag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Entrega.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ext4ur ext4ur@gmail.com",
+  "license": "ISC"
+}
